@@ -3,7 +3,7 @@
 Enables a personal server to automatically scan for and delete spam comments across your entire channel.
 
 ## Fork
-This is a fork of ThioJoe's YouTube-Spammmer-Purge. This fork simply changes the functionality to allow for more automation and 24/7 scanning.
+This is a fork of ThioJoe's YouTube-Spammmer-Purge. This fork simply aims to adjust the functionality to allow for more automation and 24/7 scanning.
 
 ## Purpose
 Recently, there has been a massive infestation of spam on YouTube where fake impersonator accounts leave spam/scam replies to hundreds of users on a creator's videos. For some god-forsaken reason, YouTube offers no way to delete all comments by a specific user at once, meaning you must delete them one by one BY HAND.
